@@ -1,0 +1,2 @@
+# -supported
+ ; All other formatting is still supported. MsgBox(0, '_StringFormatEx 2', _StringFormatEx('%3$X %1$+d [%2$10s]', -43951789, 'monkey', 43951789))  #cs Name:               _StringFormatEx Description:        Does the same as StringFormat but with added support for                     argument swapping. Format pattern is:                     %[placeholder$] [flags] [width] [.precision] ty
